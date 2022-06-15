@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Balaj Sadhasivam</h1>
+<h1 align="center">Hi 👋, I'm Balaji Sadhasivam</h1>
 <h3 align="center">Heal😏 Learn💯 Tranquility✌️ Goal🤟 Love❤️</h3>
 
 
