@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/balaji94992196" target="blank"><img src="https://img.shields.io/twitter/follow/balaji94992196?logo=twitter&style=for-the-badge" alt="balaji94992196" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning AI**
+- 🌱 I’m currently learning **Machine Learning AI** and **Web3 Development**
 
 - 📫 How to reach me **balajisadhasivam11@gmail.com**
 
