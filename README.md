@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji Sadhasivam</h1>
-<h3 align="center">I'm an inquisitive learner, pushing the boundaries of data through ML projects and embarking on a journey in data science.</h3>
+<h3 align="center">Passionate Student | Machine Learning & Data Engineering Enthusiast | Eager to Drive Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajisadhasivam&label=Profile%20views&color=0e75b6&style=flat" alt="balajisadhasivam" /> </p>
 
