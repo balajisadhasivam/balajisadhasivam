@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Balaji Sadhasivam</h1>
-<h3 align="center">AI Engineer</h3>
+<h3 align="center">I’m an AI Engineer passionate about building intelligent, real-world solutions using Large Language Models (LLMs), Generative AI, and multimodal technologies. With a solid foundation in Python, FastAPI, and LangChain, I specialize in prompt engineering and Retrieval-Augmented Generation (RAG) systems.
+
+What I do best:
+
+• Crafting effective prompts to unlock the full potential of LLMs.
+
+• Designing and deploying AI-powered applications with strong performance and user experience.
+
+• Managing vector databases and enhancing information retrieval accuracy in AI pipelines.
+
+• Working collaboratively with teams to push innovation and build production-ready solutions.
+
+I blend technical depth with hands-on project experience to deliver AI solutions that are both impactful and scalable.
+
+I’m driven by curiosity, ownership, and the desire to create meaningful technology that solves real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajisadhasivam&label=Profile%20views&color=0e75b6&style=flat" alt="balajisadhasivam" /> </p>
 
