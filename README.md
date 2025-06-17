@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balaji Sadhasivam</h1>
-<h3 align="center">AI Engineer | Building LLM Apps</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajisadhasivam&label=Profile%20views&color=0e75b6&style=flat" alt="balajisadhasivam" /> </p>
 
